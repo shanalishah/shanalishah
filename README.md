@@ -1,7 +1,7 @@
 # Shan Ali Shah Sayed
 
 AI/ML & Data Analytics Professional | Master’s in Business Analytics @ University of Rochester  
-Experienced in enterprise solution delivery, data science, data engineering, deep learning, computer vision, and client coordination
+Experienced in enterprise solution delivery, data science, data engineering, deep learning and computer vision
 
 ---
 
@@ -53,7 +53,7 @@ Python, SQL, R
 Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras, Seaborn, Matplotlib, statsmodels, nltk, TF-IDF, TextVectorization, BeautifulSoup, LangChain
 
 **Data Tools & Platforms**  
-Tableau, Power BI, Streamlit, Apache Spark (PySpark), Google Colab, Excel
+Tableau, Power BI, Apache Spark (PySpark), Excel
 
 **Cloud & DevOps**  
 AWS (Redshift, S3), Git, REST APIs
