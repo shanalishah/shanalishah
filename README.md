@@ -17,7 +17,7 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
 ## Featured Projects
 
 - **AI-Powered Grant Writing Assistant**  
-  Built an AI-powered assistant using LangChain and GPT-4 (LLM) to auto-generate grant proposals.
+  Built an AI-powered assistant using LangChain and GPT-4 (LLM), enabling users to auto-generate grant proposals.
 
 - **Craigslist Listing Classifier**  
   Scraped and labeled listings to develop a TF-IDF + SVM model that classified computer systems versus parts (~82% accuracy).
