@@ -5,23 +5,12 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
 
 ---
 
-## Areas of Focus
-
-- Applied Machine Learning and Deep Learning  
-- Natural Language Processing and Computer Vision  
-- Data Engineering, ETL Pipelines, and Feature Engineering  
-- Business Intelligence and Data Visualization  
-- Workflow Automation and Intelligent System Design  
-- AI-Driven Product Development
-
----
-
 ## What I'm Up To
 
 - **Currently building** an AI-powered assessment tool for IELTS/PTE/TOEFL writing tasks - leveraging machine learning to deliver instant feedback.
 - **Learning** about Big Data technologies and Agentic AI frameworks to scale and operationalize intelligent solutions.
 - **Open to collaborating** on AI-driven solutions across industries - from education and healthcare to finance and beyond.
-- **Ask me about** machine learning, deep learning, and all things AI. Always happy to chat tech!
+- **Ask me about** LLM, machine learning, deep learning, and all things AI. Always happy to chat tech!
 
 ---
 
@@ -67,4 +56,4 @@ Enterprise Design Thinking (IBM), Databases & SQL for Data Science (IBM), Data A
 
 Email: shanalishah7@hotmail.com  
 LinkedIn: [linkedin.com/in/shanalishah](https://www.linkedin.com/in/shanalishah)  
-Portfolio website: (Coming soon)
+Portfolio website: [www.shanalishah.com](www.shanalishah.com)  
