@@ -56,4 +56,4 @@ Enterprise Design Thinking (IBM), Databases & SQL for Data Science (IBM), Data A
 
 Email: shanalishah7@hotmail.com  
 LinkedIn: [linkedin.com/in/shanalishah](https://www.linkedin.com/in/shanalishah)  
-Portfolio website: [www.shanalishah.com](www.shanalishah.com)  
+Portfolio: [www.shanalishah.com](www.shanalishah.com)  
