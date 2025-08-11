@@ -29,7 +29,7 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
   Conducted exploratory data analysis on 19,000+ employee records to identify skill gaps; built Tableau dashboards to support workforce development planning.
 
 - **Customer Revenue Analysis**  
-  Designed a MySQL schema and wrote SQL queries to analyze churn risk and revenue trends; visualized insights using Tableau.
+  Built a MySQL database; developed SQL queries to aggregate customer rental and revenue metrics; created Tableau dashboards to highlight insights on genre performance, spending trends, and global market distribution.
 
 ---
 
