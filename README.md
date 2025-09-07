@@ -34,7 +34,7 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
 
 - **Smart Ad Classifier (Craigslist NLP)**  
   Engineered a text classification pipeline using Selenium, BeautifulSoup, TF-IDF, and Logistic Regression to moderate miscategorized ads, reducing manual review and improving buyer experience.  
-  [Project Repo](https://github.com/shanalishah/smart-ad-classifier-nlp-powered-craigslist-moderation) [Demo](https://workforce-analytics-dashboard.streamlit.app)
+  [Project Repo](https://github.com/shanalishah/smart-ad-classifier-nlp-powered-craigslist-moderation) [Demo](https://smart-ad-classifier-nlp.streamlit.app)
 
 - **Workforce Analytics Insights**  
   Conducted EDA, PCA, clustering, and A/B testing on employee training and performance data, identifying skill gaps and quantifying program effectiveness for workforce development planning.  
