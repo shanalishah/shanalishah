@@ -17,19 +17,28 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
 ## Featured Projects
 
 - **AI-Powered Grant Writing Assistant**  
-  Built an AI-powered assistant using LangChain and GPT-4 (LLM), enabling users to auto-generate grant proposals.
-
-- **Craigslist Listing Classifier**  
-  Scraped and labeled listings to develop a TF-IDF + SVM model that classified computer systems versus parts (~82% accuracy).
+  Developed an AI-powered assistant using LangChain and GPT-4 to generate structured grant proposals, applying prompt engineering, LLM integration, and workflow automation to streamline nonprofit funding processes.  
+  [Project Repo](https://github.com/shanalishah/ai-grant-writing-assistant)[Demo](https://ai-grant-writing-assistant.streamlit.app)
 
 - **English-to-Spanish Neural Translator**  
-  Built a Transformer-based sequence-to-sequence model using TensorFlow and Keras for sentence-level translation (~70% validation accuracy).
-
-- **Workforce Analytics Dashboard**  
-  Conducted exploratory data analysis on 19,000+ employee records to identify skill gaps; built Tableau dashboards to support workforce development planning.
+  Built a Transformer-based neural machine translation system with TensorFlow/Keras, leveraging attention mechanisms, positional encoding, and vectorization to deliver accurate sentence-level translations.  
+  [Project Repo](https://github.com/shanalishah/english-to-spanish-translator)[Demo](https://english-to-spanish-translator.streamlit.app)
 
 - **Customer Revenue Analysis**  
-  Built a MySQL database; developed SQL queries to aggregate customer rental and revenue metrics; created Tableau dashboards to highlight insights on genre performance, spending trends, and global market distribution.
+  Designed a MySQL analytical view and SQL queries to profile customers, detect churn, and highlight regional spending trends; translated insights into Tableau dashboards for executive decision-making.  
+  [Project Repo](https://github.com/shanalishah/real-estate-market-analysis)[Demo](https://customer-revenue-analysis-sql-tableau.streamlit.app)
+
+- **Commercial Real Estate Market & Development Analysis**  
+  Combined financial modeling in Excel with Python KPI analysis (rent growth, vacancy, expense ratios) to evaluate U.S. housing markets and generate data-driven investment recommendations.  
+  [Project Repo](https://github.com/shanalishah/real-estate-market-analysis)[Demo](https://real-estate-market-analysis.streamlit.app)
+
+- **Smart Ad Classifier (Craigslist NLP)**  
+  Engineered a text classification pipeline using Selenium, BeautifulSoup, TF-IDF, and Logistic Regression to moderate miscategorized ads, reducing manual review and improving buyer experience.
+  [Project Repo](https://github.com/shanalishah/smart-ad-classifier-nlp-powered-craigslist-moderation)[Demo](https://workforce-analytics-dashboard.streamlit.app)
+
+- **Workforce Analytics Insights**  
+  Conducted EDA, PCA, clustering, and A/B testing on employee training and performance data, identifying skill gaps and quantifying program effectiveness for workforce development planning.  
+  [Project Repo](https://github.com/shanalishah/workforce-analytics-insights)[Demo](https://workforce-analytics-dashboard.streamlit.app)
 
 ---
 
