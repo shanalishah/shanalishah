@@ -29,7 +29,7 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
   [Project Repo](https://github.com/shanalishah/customer-revenue-analysis-sql-tableau) [Demo](https://customer-revenue-analysis-sql-tableau.streamlit.app)
 
 - **Commercial Real Estate Market & Development Analysis**  
-  Combined financial modeling in Excel with Python KPI analysis (rent growth, vacancy, expense ratios) to evaluate U.S. housing markets and generate data-driven investment recommendations.  
+  Performed financial modeling in Excel with KPI analysis (rent growth, vacancy, expense ratios) to evaluate U.S. housing markets and generate data-driven investment recommendations.  
   [Project Repo](https://github.com/shanalishah/real-estate-market-analysis) [Demo](https://real-estate-market-analysis.streamlit.app)
 
 - **Smart Ad Classifier (Craigslist NLP)**  
