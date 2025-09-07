@@ -26,7 +26,7 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
 
 - **Customer Revenue Analysis**  
   Designed a MySQL analytical view and SQL queries to profile customers, detect churn, and highlight regional spending trends; translated insights into Tableau dashboards for executive decision-making.  
-  [Project Repo](https://github.com/shanalishah/real-estate-market-analysis) [Demo](https://customer-revenue-analysis-sql-tableau.streamlit.app)
+  [Project Repo](https://github.com/shanalishah/customer-revenue-analysis-sql-tableau) [Demo](https://customer-revenue-analysis-sql-tableau.streamlit.app)
 
 - **Commercial Real Estate Market & Development Analysis**  
   Combined financial modeling in Excel with Python KPI analysis (rent growth, vacancy, expense ratios) to evaluate U.S. housing markets and generate data-driven investment recommendations.  
