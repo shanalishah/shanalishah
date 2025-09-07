@@ -33,7 +33,7 @@ Experienced in enterprise solution delivery, data science, data engineering, dee
   [Project Repo](https://github.com/shanalishah/real-estate-market-analysis) [Demo](https://real-estate-market-analysis.streamlit.app)
 
 - **Smart Ad Classifier (Craigslist NLP)**  
-  Engineered a text classification pipeline using Selenium, BeautifulSoup, TF-IDF, and Logistic Regression to moderate miscategorized ads, reducing manual review and improving buyer experience.
+  Engineered a text classification pipeline using Selenium, BeautifulSoup, TF-IDF, and Logistic Regression to moderate miscategorized ads, reducing manual review and improving buyer experience.  
   [Project Repo](https://github.com/shanalishah/smart-ad-classifier-nlp-powered-craigslist-moderation) [Demo](https://workforce-analytics-dashboard.streamlit.app)
 
 - **Workforce Analytics Insights**  
