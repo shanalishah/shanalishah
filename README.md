@@ -1,6 +1,6 @@
 # Shan Ali Shah Sayed
 
-AI/ML & Data Analytics Professional | Master’s in Business Analytics @ University of Rochester  
+Data Analytics & AI/ML Professional | Master’s in Business Analytics @ University of Rochester  
 Experienced in enterprise solution delivery, data science, data engineering, deep learning and computer vision
 
 ---
